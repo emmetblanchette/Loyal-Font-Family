@@ -4,3 +4,5 @@ Loyal was engineered in 2021 to support display and body copy and published in l
 Version 1.1 will include expanded ligatures and italic fonts for serifs, at the very least.
 
 Please refer to <a href="https://emmetblanchettedesign.com/loyal">emmetblanchettedesign.com/loyal</a> for the full case study.
+
+<h3>Loyal is licensed under the SIL Open Font License v1.1.</h3>
