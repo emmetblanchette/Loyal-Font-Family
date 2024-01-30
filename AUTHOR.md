@@ -1,1 +1,1 @@
-Emmet Blanchette <emmet.blanchette@gmail.com
+Emmet Blanchette <emmet.blanchette@gmail.com>
