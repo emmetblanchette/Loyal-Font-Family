@@ -1,4 +1,4 @@
-<h1>Loyal and Loyal Sans Version 1.0</h1>
+<h1>Loyal Version 1.1 and Loyal Sans Version 1.2</h1>
 
 Loyal was engineered in 2021 to support display and body copy and published in late 2023 with 9 fonts. 
 
